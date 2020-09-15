@@ -1,0 +1,36 @@
+.cartes{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 58px 150px 82px ;
+
+}
+
+.carte{
+
+  width: 352px;
+  height: 367px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+
+
+  margin: 40px 42px;
+  padding: 25px 42px;
+
+  background: var(--white);
+
+
+
+
+  img{
+    width: 151px;
+    height: 151px;
+  }
+
+}
+

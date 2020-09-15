@@ -1,0 +1,37 @@
+h1{
+
+
+  color: var(--white);
+
+
+  bottom: 35px;
+  left: 200px;
+
+  position: relative;
+
+
+
+
+
+
+
+  font-size: 2.25rem;
+}
+
+h2{
+  font-size: 5rem;
+}
+
+
+h1, h2{
+  font-family: var(--font-principale);
+}
+
+h3, h4{
+  font-family: var(--font-secondaire);
+}
+
+h3{
+  font-weight: 700;
+  margin: 0;
+}
